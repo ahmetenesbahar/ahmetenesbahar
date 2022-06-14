@@ -23,4 +23,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmetenesbahar&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesbahar&" alt="ahmetenesbahar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesbahar&theme=tokyonight" alt="ahmetenesbahar" /></p>
