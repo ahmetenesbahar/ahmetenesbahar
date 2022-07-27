@@ -14,7 +14,7 @@
 <a align="center" href="https://instagram.com/ahmetenesbahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetenesbahar" height="30" width="40" /></a>
 <a align="center" href="https://medium.com/@ahmetenesbahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmetenesbahar" height="30" width="40" /></a>
 <a align="center" href="https://www.hackerrank.com/ahmetenesbahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmetenesbahar" height="30" width="40" /></a>
-<a align="center" href="discordapp.com/users/252878122171629568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7969" height="30" width="40" /></a>
+<a align="center" href="https://discordapp.com/users/252878122171629568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7969" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
