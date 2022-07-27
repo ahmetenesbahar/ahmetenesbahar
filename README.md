@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet Enes Bahar</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<div align="center"> <img src="https://wakatime.com/badge/user/65cc48af-b2e8-49bf-833e-bb7851fcd02d.svg"/> </div>
-<p align="center" src="https://komarev.com/ghpvc/?username=ahmetenesbahar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetenesbahar" /> </p>
+<div  align="center"> <img align="center" src="https://wakatime.com/badge/user/65cc48af-b2e8-49bf-833e-bb7851fcd02d.svg"/>
+<p> <img  align="center" src="https://komarev.com/ghpvc/?username=ahmetenesbahar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetenesbahar" /> </p>
+</div>
+
 
 <h3 align="center">- 📫 How to reach me **enesbahar2303@gmail.com**</h3>
 
