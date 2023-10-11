@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Enes Bahar</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 <div  align="center"><a href="https://wakatime.com/@65cc48af-b2e8-49bf-833e-bb7851fcd02d"><img src="https://wakatime.com/badge/user/65cc48af-b2e8-49bf-833e-bb7851fcd02d.svg" alt="Total time coded since Jun 14 2022" /></a>
-<p> <a href="https://wakatime.com/@65cc48af-b2e8-49bf-833e-bb7851fcd02d"> <img  align="center" src="https://komarev.com/ghpvc/?username=ahmetenesbahar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetenesbahar" /> </p>
+
 </div>
 
 
